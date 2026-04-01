@@ -1,0 +1,18 @@
+==================================================
+WeCare Beauty Store Invoice
+==================================================
+Customer: 123
+Date: 2025-05-19 14:02:53
+--------------------------------------------------
+Items Purchased:
+--------------------------------------------------
+Product: Skin Cleanser (Cetaphil)
+Total received: 13 (Paid: 10, Free: 3)
+Price per unit: Rs.560
+Amount: Rs.5600
+--------------------------------------------------
+Subtotal: Rs.5600
+VAT (13%): Rs.728.00
+Total Amount: Rs.6328.00
+==================================================
+Thank you for shopping with WeCare!

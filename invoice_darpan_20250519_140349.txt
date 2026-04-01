@@ -1,0 +1,23 @@
+==================================================
+WeCare Beauty Store Invoice
+==================================================
+Customer: darpan
+Date: 2025-05-19 14:03:49
+--------------------------------------------------
+Items Purchased:
+--------------------------------------------------
+Product: Vitamin C Serum (Garnier)
+Total received: 133 (Paid: 100, Free: 33)
+Price per unit: Rs.2000
+Amount: Rs.200000
+--------------------------------------------------
+Product: Skin Cleanser (Cetaphil)
+Total received: 20 (Paid: 15, Free: 5)
+Price per unit: Rs.560
+Amount: Rs.8400
+--------------------------------------------------
+Subtotal: Rs.208400
+VAT (13%): Rs.27092.00
+Total Amount: Rs.235492.00
+==================================================
+Thank you for shopping with WeCare!
